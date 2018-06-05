@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>blue.png</Source>
+      <Name>blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\EerAmore\Documents\Visual Studio XNA Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\blue.xnb</Output>
+      <Time>2018-04-09T14:44:40.6723472+02:00</Time>
+    </Item>
+    <Item>
+      <Source>green.png</Source>
+      <Name>green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\EerAmore\Documents\Visual Studio XNA Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\green.xnb</Output>
+      <Time>2018-04-09T14:44:45.4497021+02:00</Time>
+    </Item>
+    <Item>
+      <Source>magenta.png</Source>
+      <Name>magenta</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\EerAmore\Documents\Visual Studio XNA Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\magenta.xnb</Output>
+      <Time>2018-04-09T14:44:50.5550381+02:00</Time>
+    </Item>
+    <Item>
+      <Source>orange.png</Source>
+      <Name>orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\EerAmore\Documents\Visual Studio XNA Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\orange.xnb</Output>
+      <Time>2018-04-09T14:44:55.2561234+02:00</Time>
+    </Item>
+    <Item>
+      <Source>teal.png</Source>
+      <Name>teal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\EerAmore\Documents\Visual Studio XNA Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\teal.xnb</Output>
+      <Time>2018-04-09T14:44:59.7757824+02:00</Time>
+    </Item>
+    <Item>
+      <Source>violet.png</Source>
+      <Name>violet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\EerAmore\Documents\Visual Studio XNA Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\violet.xnb</Output>
+      <Time>2018-04-09T14:45:04.8174368+02:00</Time>
+    </Item>
+    <Item>
+      <Source>yellow.png</Source>
+      <Name>yellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\EerAmore\Documents\Visual Studio XNA Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\yellow.xnb</Output>
+      <Time>2018-04-09T14:45:09.4552961+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{833DDFC9-32F1-4BEA-87F4-07A8E4426874}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\EerAmore\Documents\Visual Studio XNA Projects\Tetris\Tetris\TetrisContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\EerAmore\Documents\Visual Studio XNA Projects\Tetris\Tetris\Tetris\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\EerAmore\Documents\Visual Studio XNA Projects\Tetris\Tetris\Tetris\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\EerAmore\Documents\Visual Studio XNA Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-05-05T20:59:27.3013166+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

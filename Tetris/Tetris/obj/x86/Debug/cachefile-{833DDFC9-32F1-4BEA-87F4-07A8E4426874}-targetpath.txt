@@ -1,0 +1,7 @@
+Content\blue.xnb
+Content\green.xnb
+Content\magenta.xnb
+Content\orange.xnb
+Content\teal.xnb
+Content\violet.xnb
+Content\yellow.xnb

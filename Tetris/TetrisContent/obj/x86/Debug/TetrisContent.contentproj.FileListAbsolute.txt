@@ -1,0 +1,1 @@
+C:\Users\EerAmore\Documents\Visual Studio XNA Projects\Tetris\Tetris\TetrisContent\obj\x86\Debug\TetrisContent.contentprojResolveAssemblyReference.cache
